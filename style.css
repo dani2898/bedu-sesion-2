@@ -1,0 +1,106 @@
+.header {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 0;
+  }
+  
+  .header > * {
+    display: inline-block;
+    font-size: 16px;
+    vertical-align: middle;
+    height: 100%;
+    line-height: 45px;
+    font-family: sans-serif ;
+  }
+
+  .navbar {
+    width: 70%;
+    height: 45px;
+    text-align: center;
+    color: #025157;
+    font-weight: 500;
+  }
+  
+  .actions {
+    width: 15%;
+    text-align: right;
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .actions > *{
+    margin: 5px;
+  }
+
+#sign-in{
+  color:#67b54b;
+}
+
+#button-style{
+  color:white;
+  background-color: #67b54b;
+  padding: 12px 14px 12px 14px;
+  border-radius: 5px;
+}
+
+
+  .logo {
+    width: 15%;
+  }
+  
+  .logo > img {
+    height: 100%;
+  }
+  
+  
+  .actions {
+    width: 15%;
+  }
+.header-container-padre{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right:20px;
+}
+
+.footer-container{
+    margin-left: 20px;
+    margin-right:20px;
+    margin-bottom: 40px;
+}
+
+li{
+    list-style: none;
+    display: inline;
+}
+
+#header-box{
+    background-color: lightpink;
+    margin:40px;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+#footer-box{
+    background-color: slateblue;
+    margin-top:40px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+#footer-box > * {
+  display: inline-block;
+  font-size: 16px;
+  vertical-align: middle;
+  height: 100%;
+  line-height: 45px;
+  font-family: sans-serif;
+}
+
+.right {
+  width: 80%;
+  text-align: right;
+  font-size: 14px;
+  font-weight: 600;
+}
